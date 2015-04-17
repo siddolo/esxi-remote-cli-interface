@@ -3,7 +3,7 @@ VMware ESXi remote CLI interface
 
         ./vmware.sh hostname {ls|running|stop|start|status} [vmid]
 
-        Commands:
+ 	Commands:
         	ls		Get all VMs
         	running		Get all running VMs
         	stop		Power off VM
